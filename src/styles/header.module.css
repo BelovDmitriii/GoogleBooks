@@ -1,7 +1,13 @@
 .container {
   text-align: center;
+  height: 100px;
+  width: 100%;
+  background-color: deeppink;
+
 }
 
 .container h1 {
   color: gold;
+  margin-top: 0px;
+  padding-top: 20px;
 }
